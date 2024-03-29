@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+ <h2 align="center">Davis Cabrera 🌌</h2>
+</p>
 
-<!--
-**DecentralizedDave/DecentralizedDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@daviscabrera.com)
 
-Here are some ideas to get you started:
+<h3>
+  My Stack 
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end:
+
+-   React, React Native
+-   Next.js, Vite
+-   Web 3: Ethers.js, HardHat, Alchemy, Moralis, WAGMI, Wallet Connect, probably missing something else idk
+
+Design:
+
+-   Figma
+-   Illustrator
+-   Adobe XD
+-   Photoshop
+
+  <h3>
+  Notable Projects
+</h3>
+
+- [longcat.com](https://longcat.com/)
+- [McPepe's](https://mcpepes.com/)
