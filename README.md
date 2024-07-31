@@ -25,5 +25,4 @@ Design:
   Notable Projects
 </h3>
 
-- [longcat.com](https://longcat.com/)
 - [McPepe's](https://mcpepes.com/)
